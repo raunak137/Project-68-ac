@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    font-family: cursive;
+}
+
+
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    float: right;
+    top: 10px;
+    cursor: pointer;
+    color: antiquewhite;
+}
+
+.links:hover {
+    background-color: burlywood;
+
+}
+
+.links {
+    color: aquamarine;
+    display: inline;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+#
+}
+
+img {
+    height: 80;
+    width: 80px;
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9)
+}
+
+
